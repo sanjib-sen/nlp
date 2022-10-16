@@ -1,6 +1,4 @@
 # Natural Language Processing
-> CSE431: BRAC University
-
 
 > Playlist for all topics: [Link](https://www.youtube.com/playlist?list=PLYTBfujHP-398q0SsvCGZ2kWCU0jDViAY)
 
