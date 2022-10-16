@@ -1,0 +1,50 @@
+  102  ls ~
+  103  cd ~
+  104  ls -a
+  105  cd ..
+  106  ls -a
+  107  cd sanjib/
+  108  ls -a
+  109  ls
+  110  ls -a
+  111  mkdir desktop
+  112  cd desktop/
+  113  mkdir 19301101
+  114  cd 19301101/
+  115  wget https://raw.githubusercontent.com/nikolaypavlov/spark-shakespeare/master/sh.txt
+  116  ls -a
+  117  cat sh.txt 
+  118  clear
+  119  man tr
+  120  cat sh.txt 
+  121  clear
+  122  tr -sc 'A-Za-z' '\n' < sh.txt
+  123  tr -sc 'A-Za-z' ' ' < sh.txt
+  124  tr -sc 'A-Za-z' '\n' < sh.txt
+  125  tr -sc 'A-Za-z' '\n' < sh.txt | sort | uniq -c
+  126  tr -sc 'A-Za-z' '\n' < sh.txt | tr A-Z a-z | sort | uniq -c
+  127  tr -sc 'A-Za-z' '\n' < sh.txt | tr A-Z a-z | sort | uniq -c | sort -n -r
+  128  man sort
+  129  tr -sc 'A-Za-z' '\n' < sh.txt | tr A-Z a-z | sort | uniq -c | sort -n
+  130  tr -sc 'A-Za-z' '\n' < sh.txt | tr A-Z a-z | sort | uniq -c | sort -n -r > output.txt
+  131  cat output.txt 
+  132  github --version
+  133  clone https://github.com/sanjib-sen/nlp
+  134  git --version
+  135  git clone https://github.com/sanjib-sen/nlp
+  136  ls -a
+  137  rm nlp
+  138  rm -rf nlp
+  139  git init
+  140  git mkdir task01
+  141  mkdir task01
+  142  mv output.txt sh.txt task01/
+  143  git add .
+  144  git commit -a -m "init" 
+  145  git remote add origin https://github.com/sanjib-sen/nlp
+  146  git push origin main
+  147  git push origin master
+  148  history 
+  149  history 2
+  150  man history
+  151  history 50 > commands.txt 
