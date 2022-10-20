@@ -1,0 +1,19 @@
+Link to unlisted youtube video:
+https://youtu.be/2CFl_7DLukg
+
+Public link to the slide (Anyone on the internet can view without login):
+https://docs.google.com/presentation/d/1lZjb3rQoGZdGCAZhy3wB8Z6YDKu216ONhMVgKgvagy4/edit?usp=sharing
+
+Paper title:
+Predicting Legal Proceedings  Status: Approaches Based on sequential text data
+
+Link to the paper:
+https://paperswithcode.com/paper/predicting-legal-proceedings-status-an?fbclid=IwAR3Lzpz1KzPvXumdxqqzFlggleT1yo91FcsVkzSOKS1lgv0UqXwYCF4RRzo
+
+Group Number:
+3
+
+Group Members:
+19101086 - Nafisa Mustari
+19301101 - Sanjib Kumar Sen
+21101342 - Ananya Banik
