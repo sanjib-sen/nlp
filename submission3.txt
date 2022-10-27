@@ -1,5 +1,5 @@
 Link to unlisted youtube video:
-``
+https://youtu.be/6-PlNwgJEh8
 
 Link to the Concept Map:
 https://github.com/sanjib-sen/nlp/blob/master/ConceptMap.png
