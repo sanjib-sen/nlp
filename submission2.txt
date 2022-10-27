@@ -11,7 +11,7 @@ Link to the paper:
 https://paperswithcode.com/paper/predicting-legal-proceedings-status-an?fbclid=IwAR3Lzpz1KzPvXumdxqqzFlggleT1yo91FcsVkzSOKS1lgv0UqXwYCF4RRzo
 
 Group Number:
-3
+14
 
 Group Members:
 19101086 - Nafisa Mustari

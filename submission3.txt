@@ -5,7 +5,7 @@ Link to the Concept Map:
 PDF: 
 ``
 
-Link for the Presentation Slides:
+Public link to the slide (Anyone on the internet can view without login):
 https://docs.google.com/presentation/d/1v9lDihL827f5eIcQn0neu4oS6MRBlYlbNCsmve1AJJc/edit?usp=sharing
 
 Name, Author, Edition, year and publisher of the Book:
@@ -18,11 +18,14 @@ Pearson
 Link to the book:
 https://web.stanford.edu/~jurafsky/slp3
 
+Chapter Number and Chapter Name of the book:
+Chapter 20, Lexicons for Sentiment, Affect, and Connotation
+
 Link to the book chapter:
 https://web.stanford.edu/~jurafsky/slp3/20.pdf
 
 Group Number:
-3
+14
 
 Group Members:
 19101086 - Nafisa Mustari
